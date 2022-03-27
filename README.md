@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Scripter1011
 - 👀 I’m interested in script
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Elsa
-- 📫 How to reach me none can except Elsa
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me none can except 
+- 
 -
 
 <!---
